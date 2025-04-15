@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li{
+
+    list-style: none;
+}
+body{
+    background-color: #fff;
+}
+
+.dh{
+   
+    height: 54px;
+   background-color: #000000;
+}
+
+.dh {
+    display: flex;
+   justify-content: flex-end;
+}
+
